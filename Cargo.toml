@@ -1,5 +1,5 @@
 [package]
-name = "namegen"
+name = "fantasy-namegen"
 description = "A simple name generator"
 license = "MIT"
 version = "0.1.0"
