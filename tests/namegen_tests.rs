@@ -1,4 +1,4 @@
-use namegen::Namegen;
+use fantasy_namegen::Namegen;
 
 #[test]
 fn test_namegen_first_name_generation() {
